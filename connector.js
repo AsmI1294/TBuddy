@@ -7,7 +7,7 @@
 
 var carObject = {
   vehicle: "Car",
-  imageUrl: "/images/grahame-jenkins-p7tai9P7H-s-unsplash.jpg",
+  imageUrl: "./images/grahame-jenkins-p7tai9P7H-s-unsplash.jpg",
   farePerKilo: 3,
   capacity: 4,
   description:
@@ -15,7 +15,7 @@ var carObject = {
 };
 var bikeObject = {
   vehicle: "Bike",
-  imageUrl: "/images/harley-davidson-eeTJKC_wz34-unsplash.jpg",
+  imageUrl: "./images/harley-davidson-eeTJKC_wz34-unsplash.jpg",
   farePerKilo: 2,
   capacity: 2,
   description:
@@ -23,7 +23,7 @@ var bikeObject = {
 };
 var busObject = {
   vehicle: "Bus",
-  imageUrl: "/images/jonathan-borba-T5jzpRTVF1U-unsplash.jpg",
+  imageUrl: "./images/jonathan-borba-T5jzpRTVF1U-unsplash.jpg",
   farePerKilo: 7,
   capacity: 20,
   description:
